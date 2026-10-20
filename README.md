@@ -9,7 +9,7 @@ Added sticky navigation without a list, links to resume sections, and a download
 
 ## GitHub Pages
 
-[Website](https://killerpigwolf.github.io/comp484-hw8/)
+[Website](https://killerpigwolf.github.io/DanielCIT384resumep3/)
 
 **Hosting:** GitHub Pages, published from the main branch and repository root.
 
