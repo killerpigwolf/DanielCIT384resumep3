@@ -1,6 +1,10 @@
-﻿# CIT 384 - HW8 Resume Site
+# CIT 384 - HW8 Resume Site
 
-HW7 plus sticky section navigation, a downloadable resume PDF, Font Awesome footer icons, and an SVG background with an RGBA gradient overlay.
+**Name:** Daniel Isayan
+
+**Class:** CIT384
+
+Added sticky navigation without a list, links to each resume section, and a downloadable resume PDF. Added Font Awesome footer icons and used the CSS `background` shorthand to combine a section background image with an RGBA gradient overlay.
 
 ## GitHub Pages
 
@@ -10,7 +14,7 @@ HW7 plus sticky section navigation, a downloadable resume PDF, Font Awesome foot
 
 ## Preview
 
-Open index.html in a browser. No build step is needed. Google Fonts require internet access, with system font fallbacks. HW8 bundles Font Awesome Free 6.7.2 locally with its license so footer icons work offline.
+Open index.html in a browser. No build step is needed. Google Fonts require internet access, with system font fallbacks. HW8 bundles Font Awesome Free 7.3.1 locally with its license so footer icons work offline.
 
 ## Content
 
@@ -29,3 +33,5 @@ Submit this repository link in Canvas: [killerpigwolf/comp484-hw8](https://githu
 
 The live website is linked above. Changes pushed to main automatically trigger a GitHub Pages deployment.
 [GitHub Pages publishing instructions](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
+
+Font Awesome version verified against the [latest official release](https://github.com/FortAwesome/Font-Awesome/releases/latest) on October 20, 2026: 7.3.1.

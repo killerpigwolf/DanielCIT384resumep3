@@ -1,4 +1,4 @@
-﻿/* Color Palette
+/* Color Palette
    Inspiration: https://icolorpalette.com/p/239004
    #0b132b - midnight / header
    #1c2541 - navy / footer
@@ -97,10 +97,10 @@ footer { text-align: center; }
 [id] { scroll-margin-top: 130px; }
 .contact-info i { margin-right: 6px; }
 .education {
-    background-color: #5bc0be;
-    background-image: linear-gradient(110deg, rgba(91, 192, 190, 0.96), rgba(244, 247, 245, 0.82)), url("../images/education.svg");
-    background-size: cover;
-    background-position: center;
+
+    background: linear-gradient(110deg, rgba(91, 192, 190, 0.96), rgba(244, 247, 245, 0.82)), url("../images/education.svg") center / cover no-repeat #5bc0be;
+
+
 }
 @media (max-width: 650px) {
     .site-nav a { padding: 10px 12px; font-size: 0.85rem; }
