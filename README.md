@@ -1,4 +1,4 @@
-# CIT 384 - HW8 Resume Site
+# CIT384 - HW8 Resume Site
 
 
 **Name:** Daniel Isayan
